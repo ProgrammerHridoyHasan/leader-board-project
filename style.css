@@ -119,10 +119,10 @@ main{
    font-size: 12px;
  }
  .fa-star.filled{
-      color: #FFC014;
+      color: hsl(44, 100%, 54%);
  }
  .fa-star.empty{
-      color: #AEAEAE;
+      color: hsl(0, 0%, 68%);
  }
 
 /*---------------------
